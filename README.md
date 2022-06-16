@@ -14,3 +14,11 @@ This is a repository in order to complete my kampus merdeka program with Orbit F
     
     Analysis dataset of crops production in states and districts.The conclusions is the widest area in states or districts is not affected to crops production and there is many widest area in states or districts that have lower production.
     
+4. CV 1
+    
+    Classify cifar10 dataset that have 9 labels with CNN. Accuracy with CNN is about 83%.
+    
+5. NLP 1 & 2
+
+    Classify review dataset that have 5 labels from ratings with machine learning algorithm. Random forest algorithm have highest accuracy from other algorithm.
+    
