@@ -1,4 +1,4 @@
-# Orbit Future Academy - AI Mastery
+# Data Analysis (Orbit Future Academy - AI Mastery)
 
 ### :notebook_with_decorative_cover: Description
 This is a repository in order to complete my kampus merdeka program with Orbit Future Academy.In this repository contain my project about Python and Artificial Intellegence.
